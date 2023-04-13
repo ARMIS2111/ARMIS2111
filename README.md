@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ARMIS2111/ARMIS2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋;I am Archit Mishra;A student of B.Tech 3rd Year;Welcome to my GitHub profile)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋;I am Archit Mishra;A student of B.Tech 3rd Year;Welcome to my GitHub profile)](https://git.io/typing-svg) -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 👨‍💻 Languages:-<br/>
 
 ![image](https://user-images.githubusercontent.com/101886753/231696184-c3a5b2bc-6ba6-45fd-b31f-4684b640eac0.png) ![image](https://user-images.githubusercontent.com/101886753/231696211-3af974fd-207d-4994-8b83-5be8f91f31e9.png) ![image](https://user-images.githubusercontent.com/101886753/231696242-4bcd3e01-b30f-4631-83ac-c13739873f77.png) ![image](https://user-images.githubusercontent.com/101886753/231696262-a3a70846-c760-4a95-abcd-074bdc96b0d3.png) ![image](https://user-images.githubusercontent.com/101886753/231696281-5cbefe72-2b99-4022-a1d2-a48350ce3f32.png) ![image](https://user-images.githubusercontent.com/101886753/231696305-b4b48f8c-4ea0-43f7-8043-461e00f7160d.png) ![image](https://user-images.githubusercontent.com/101886753/231696325-c0bceba2-6ad8-4e4b-a225-c038c5b131fb.png)
