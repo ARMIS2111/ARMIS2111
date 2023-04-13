@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 
 
-💻 Software and tools:-`<br>`
+💻 Software and tools:-<br />
+
 ![image](https://user-images.githubusercontent.com/101886753/231697101-3978f109-3fc3-4e98-8354-892ca059dca0.png) ![image](https://user-images.githubusercontent.com/101886753/231697116-23f1e653-46bd-4550-81e6-c786a8e766a4.png) ![image](https://user-images.githubusercontent.com/101886753/231697145-542ff9c2-a4bb-4f50-84c0-58948e74e1a2.png) ![image](https://user-images.githubusercontent.com/101886753/231697158-360d7627-e9fd-4274-afff-8d37222f8d81.png)
 
 
