@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Archit+Mishra;A+student+of+B.Tech+Final+Year;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Archit+Mishra;A+student+of+Final+Year+pursuing+B.Tech+in+Computer+Science+Engineering;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 
 
